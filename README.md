@@ -4,7 +4,7 @@ Welcome, coders, to our study jam! We're thrilled to have you on this learning j
 
 ## Getting Started
 
-To get started, head over to our [Notion page] (https://gdsc-asu.notion.site/GDSC-Frontend-Study-Jam-07f5cf2e8c864e77969ad559ef19c3fc) for a detailed description of the study jam. You'll find essential information, resources, and a roadmap to guide you through the entire study jam.
+To get started, head over to our [Notion page](https://gdsc-asu.notion.site/GDSC-Frontend-Study-Jam-07f5cf2e8c864e77969ad559ef19c3fc) for a detailed description of the study jam. You'll find essential information, resources, and a roadmap to guide you through the entire study jam.
 
 ## Step-by-Step Guidance
 
