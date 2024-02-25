@@ -1,0 +1,18 @@
+/* My styling */
+.hero-card {
+    border: 2px solid white;
+    height: 100px;
+    width: 200px;
+    border-radius: 8px;
+    margin: 16px;
+    padding: 8px;
+}
+.hero-name {
+    font-size: 24px;
+    font-weight: 600;
+    color: pink;
+    margin: 8px;
+}
+.hero-company {
+    text-decoration: underline;
+}
