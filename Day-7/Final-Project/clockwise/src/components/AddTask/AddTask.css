@@ -1,0 +1,10 @@
+.add-task-section {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 12px;
+    margin-bottom: 32px;
+}
+.add-task-section input {
+    flex: 1;
+}

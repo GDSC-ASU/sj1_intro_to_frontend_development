@@ -1,0 +1,44 @@
+.App {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+}
+.bg-img {
+    position: absolute;
+    background-size:cover;
+    background-repeat:no-repeat;
+    back
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -2;
+}
+.quote-section{
+    position:absolute;
+    bottom:2%;
+    width:100%;
+}
+.loaded{
+    transition: 1s ease all;
+    opacity:0;
+    position:absolute;
+    left:12%;
+    top:50%;
+}
+.loading{
+    transition: 1s ease all;
+    opacity:1;
+    position:absolute;
+    left:12%;
+    top:50%;
+}
+.reload-icon{
+    position:absolute;
+    top:2%;
+    left:2%;
+}

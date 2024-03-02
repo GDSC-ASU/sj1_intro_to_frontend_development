@@ -1,0 +1,21 @@
+.TaskCard {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.controls {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+input[type="checkbox"] {
+    width: 24px;
+    height: 24px;
+}
+.checked {
+    text-decoration: line-through;
+    font-size: 20px;
+}
+.unChecked {
+    font-size: 20px;
+}

@@ -1,0 +1,13 @@
+.intro-load-tasks {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 24px;
+}
+.intro-load-tasks p {
+    font-size: 22px;
+}
+.empty-tasks p {
+    margin-bottom: 32px;
+    font-size: 24px;
+}

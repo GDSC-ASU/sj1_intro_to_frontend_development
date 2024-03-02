@@ -1,0 +1,11 @@
+.time-section {
+    width: 100%;
+    flex: 0 1 38%;
+}
+.tasks-section {
+    width: 100%;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
